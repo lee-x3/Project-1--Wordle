@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Project-1--Wordle
-=======
+
 # Project 1 - Wordle
 
 Submitted by: Xia Lee
